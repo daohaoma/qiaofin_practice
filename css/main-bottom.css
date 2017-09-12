@@ -1,0 +1,297 @@
+/*联系我们*/
+.page-four{
+	width: 100%;
+	background-color: rgb(250,250,250);
+}
+
+.page-left2{
+	width: 100%;
+	height: 201px;
+	background-image: url(../img/6.png);
+}
+
+.page-right2{
+	width: 100%;
+	height: 700px;
+}
+
+.container3{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.container3-one{
+	width: 100%;
+	height: 491px;
+	background-image: url(../img/5.png);
+	margin-top: -145px;
+	
+	/*
+	position: relative;
+	top: -100px;
+	*/
+}
+
+.container3-two{
+	width: 100%;
+	height: 172px;
+	margin: 15px 0px;
+	box-shadow: 2px 4px 5px #CCCCCC;
+	background: #FFFFFF;
+}
+
+/*左边*/
+.two-left{
+	display: inline-block;
+	width: 243px;
+	height: 70px;
+	border-right: 1px solid #ccc;
+	text-align: center;
+}
+
+.two-left img{
+	margin-top: 10px;
+}
+
+/*中间*/
+.two-center{
+	display: inline-block;
+	width: 325px;
+	height: 100%;
+	position: relative;
+	left: 70px;
+}
+
+.center-address{
+	height: 24px;
+	line-height: 24px;
+	font-size: 18px;
+	text-align: right;
+	background-image: url(../img/address.png);
+	background-repeat: no-repeat;
+}
+
+.center-phone{
+	height: 24px;
+	line-height: 24px;
+	font-size: 18px;
+	text-align: right;
+	background-image: url(../img/phone.png);
+	background-repeat: no-repeat;
+	background-position-y: 3px;
+}
+
+/*右边*/
+.two-right{
+	display: inline-block;
+	width: 280px;
+	height: 120px;
+	position: relative;
+	top: 30px;
+	left: 260px;
+}
+.two-right-one{
+	float: left;
+}
+
+.img1{
+	margin-right: 45px;
+}
+
+.btn{
+	font-size: 8px;
+	color: #CCCCCC;
+	display: inline-block;
+	width: 104px;
+	height: 8px;
+	text-align: center;
+	position: relative;
+	top: -8px;
+}
+
+
+/*加入我们*/
+.page-five{
+	width: 100%;
+	height: 738px;
+	background-color: rgb(250,250,250);
+}
+
+.container4{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+/*第一部分*/
+.container4-one{
+	width: 100%;
+	height: 112px;
+	margin-bottom: 7px;
+}
+
+.join-right{
+	width: 300px;
+	height: 100%;
+	float: right;
+}
+
+.join-right-one{
+	text-align: right;
+	font-size: 20px;
+	margin-bottom: 0px;
+	margin-top: 50px;
+}
+.join-right-two{
+	text-align: right;
+	font-size: 15px;
+}
+
+/*第二部分*/
+.container4-two{
+	width: 100%;
+	height: 267px;
+	margin-bottom: 15px;
+	margin-top: 10px;
+	box-shadow: 2px 4px 5px #CCCCCC;
+	background: #fff;
+}
+
+/*左边*/
+.container4-two-left{
+	display: inline-block;
+	width: 245px;
+	position: relative;
+	top: -50px;
+	border-right: 1px solid #ccc;
+}
+
+.container4-two-left-p1{
+	text-align: center;
+	font-size: 21px;
+	font-family: "微软雅黑";
+	font-weight: 300;
+}
+
+.container4-two-left-p2{
+	text-align: center;
+	font-size: 17px;
+	color: #ccc;
+}
+
+/*中间*/
+.container4-two-center{
+	display: inline-block;
+	width: 395px;
+	margin-left: 45px;
+}
+
+.container4-two-center p{
+	font-size: 20px;
+}
+
+.container4-two ol{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.container4-two li{
+	margin: 5px 0px;
+	color: dimgray;
+	font-size: 14px;
+}
+
+/*右边*/
+.container4-two-right{
+	display: inline-block;
+	width: 395px;
+	position: relative;
+	left: 50px;
+	top: 8px;
+}
+
+.container4-two-right p{
+	font-size: 20px;
+}
+
+/*第三部分*/
+.container4-three{
+	width: 100%;
+	height: 291px;
+	margin-bottom: 20px;
+	box-shadow: 2px 4px 5px #CCCCCC;
+	background: #fff;
+}
+
+.container4-three-left{
+	width: 245px;
+	display: inline-block;
+	width: 245px;
+	position: relative;
+	top: -20px;
+	border-right: 1px solid #ccc;
+}
+
+.container4-three-right{
+	display: inline-block;
+	width: 918px;
+}
+
+.container4-three-right-left{
+	width: 400px;
+	float: left;
+	margin-left: 45px;
+	position: relative;
+	top: 20px;
+}
+
+.container4-three-right-left p,.container4-three-right-right p{
+	font-size: 20px;
+}
+
+.container4-three-right-right{
+	width: 400px;
+	display: inline-block;
+	margin-left: 35px;
+	position: relative;
+	top: 18px;
+}
+
+.container4-three ol{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.container4-three li{
+	margin: 5px 0px;
+	color: dimgray;
+	font-size: 14px;
+}
+
+/*页尾*/
+.page-six{
+	width: 100%;
+	height: 473px;
+	background-image: url(../img/partner.png);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
